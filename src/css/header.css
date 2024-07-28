@@ -19,3 +19,9 @@
 .nav-link:focus {
   color: #747bff;
 }
+
+.go-back {
+  margin-top: 20px;
+  display: flex;
+  justify-content: end;
+}
